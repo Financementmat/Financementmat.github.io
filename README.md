@@ -1,4 +1,3 @@
-# Financementmat.github.io
 # Options de Financement pour Fusion Production
 
 Bienvenue sur la page des options de financement pour Fusion Production. Cliquez sur les boutons ci-dessous pour accéder aux différentes possibilités de financement.
@@ -120,4 +119,3 @@ Bienvenue sur la page des options de financement pour Fusion Production. Cliquez
 ### Comment utiliser
 
 - **Naviguez facilement** en cliquant sur les liens pour obtenir plus d'informations directement depuis les sites officiels.
-- **Mettez à jour** ce fichier si de nouveaux financements ou partenaires sont trouvés à l'avenir.
