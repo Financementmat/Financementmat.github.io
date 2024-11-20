@@ -13,7 +13,7 @@ Bienvenue sur la page des options de financement pour Fusion Production. Cliquez
 </p>
 
 <p>
-    <a href="https://www.canada.ca/fr/patrimoine-canadien/services/fonds-espaces-culturels.html" target="_blank" style="text-decoration: none;">
+    <a href="https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2022/02/le-gouvernement-du-canada-lance-un-programme-visant-a-fournir-un-soutien-supplementaire-aux-travailleurs-culturels-du-secteur-des-arts-de-la-scene.html" target="_blank" style="text-decoration: none;">
         <button style="padding: 10px 20px; background-color: #007bff; color: white; border: none; border-radius: 5px; cursor: pointer;">Patrimoine canadien</button>
     </a>
     <br>
@@ -21,7 +21,7 @@ Bienvenue sur la page des options de financement pour Fusion Production. Cliquez
 </p>
 
 <p>
-    <a href="https://artsnb.ca/site/fr/" target="_blank" style="text-decoration: none;">
+    <a href="https://conseildesarts.ca/financement/subventions/appuyer-la-pratique-artistique/innovation-et-developpement-du-secteur" target="_blank" style="text-decoration: none;">
         <button style="padding: 10px 20px; background-color: #007bff; color: white; border: none; border-radius: 5px; cursor: pointer;">Conseil des arts du Nouveau-Brunswick</button>
     </a>
     <br>
