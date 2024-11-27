@@ -58,14 +58,6 @@ Bienvenue sur la page des options de financement pour Fusion Production. Cliquez
 </p>
 
 <p>
-    <a href="https://about.rogers.com/innovation/" target="_blank" style="text-decoration: none;">
-        <button style="padding: 10px 20px; background-color: #ffc107; color: black; border: none; border-radius: 5px; cursor: pointer;">Rogers Innovation Fund</button>
-    </a>
-    <br>
-    Jusqu'à 100 000 CAD pour des projets numériques.
-</p>
-
-<p>
     <a href="https://www.lightspeedhq.com" target="_blank" style="text-decoration: none;">
         <button style="padding: 10px 20px; background-color: #ffc107; color: black; border: none; border-radius: 5px; cursor: pointer;">Lightspeed</button>
     </a>
