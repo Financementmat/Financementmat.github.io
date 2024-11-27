@@ -6,11 +6,11 @@ Bienvenue sur la page des options de financement pour Fusion Production. Cliquez
 
 
 <p>
-    <a href="https://conseildesarts.ca/financement/subventions/appuyer-la-pratique-artistique/innovation-et-developpement-du-secteur" target="_blank" style="text-decoration: none;">
-        <button style="padding: 10px 20px; background-color: #007bff; color: white; border: none; border-radius: 5px; cursor: pointer;">Conseil des arts du Nouveau-Brunswick</button>
+    <a href="https://www.canada.ca/fr/patrimoine-canadien/services/fonds-espaces-culturels.html" target="_blank" style="text-decoration: none;">
+        <button style="padding: 10px 20px; background-color: #007bff; color: white; border: none; border-radius: 5px; cursor: pointer;">Patrimoine canadien</button>
     </a>
     <br>
-    Jusqu'à 50 000 CAD pour des projets de développement culturel.
+    Jusqu'à 500 000 CAD pour le développement d'espaces culturels.
 </p>
 
 <p>
