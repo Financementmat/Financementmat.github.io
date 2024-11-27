@@ -76,7 +76,7 @@ Bienvenue sur la page des options de financement pour Fusion Production. Cliquez
 ## Prêts pour les arts et culture
 
 <p>
-    <a href="https://www.bdc.ca" target="_blank" style="text-decoration: none;">
+    <a href="https://www.bdc.ca/fr/financement" target="_blank" style="text-decoration: none;">
         <button style="padding: 10px 20px; background-color: #17a2b8; color: white; border: none; border-radius: 5px; cursor: pointer;">Banque de développement du Canada (BDC)</button>
     </a>
     <br>
