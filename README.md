@@ -4,13 +4,6 @@ Bienvenue sur la page des options de financement pour Fusion Production. Cliquez
 
 ## Subventions culturelles
 
-<p>
-    <a href="https://canadacouncil.ca/funding" target="_blank" style="text-decoration: none;">
-        <button style="padding: 10px 20px; background-color: #007bff; color: white; border: none; border-radius: 5px; cursor: pointer;">Conseil des arts du Canada</button>
-    </a>
-    <br>
-    Jusqu'à 100 000 CAD par projet pour soutenir des projets artistiques.
-</p>
 
 <p>
     <a href="https://conseildesarts.ca/financement/subventions/appuyer-la-pratique-artistique/innovation-et-developpement-du-secteur" target="_blank" style="text-decoration: none;">
