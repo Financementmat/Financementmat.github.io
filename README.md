@@ -91,6 +91,14 @@ Bienvenue sur la page des options de financement pour Fusion Production. Cliquez
     Prêts jusqu'à 100 000 CAD pour les PME culturelles.
 </p>
 
+<p>
+    <a href="https://conseildesarts.ca/financement/subventions/explorer-et-creer" target="_blank" style="text-decoration: none;">
+        <button style="padding: 10px 20px; background-color: #007bff; color: white; border: none; border-radius: 5px; cursor: pointer;">Conseil des arts du Canada</button>
+    </a>
+    <br>
+    Subvention jusqu'à 100 000 CAD pour des projets artistiques, couvrant les frais de production, de promotion et de diffusion.
+</p>
+
 ---
 
 ### Comment utiliser
